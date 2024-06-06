@@ -15,7 +15,7 @@ codegen-version = "09e6e19cfd548c701c8acaf726971ff4138395c7"
 all-features = true
 targets = ["x86_64-unknown-linux-gnu"]
 [dependencies.ahash]
-version = "0.8.11"
+version = "0.8.5"
 default-features = false
 
 [dependencies.aws-credential-types]
